@@ -1,5 +1,5 @@
 # EEG-Transformer-seq2seq
-Modified transformer network utilizing the attention mechanism for time series or any other numerical data. Collaborative 6.100 project at MIT Media Lab.
+Modified transformer network utilizing the attention mechanism for time series or any other numerical data. A collaborative 6.100 Electrical Engineering and Computer Science Project at MIT Media Lab.
 
 ## The origianl NLP paper and Transformer model
 publication of Google - https://arxiv.org/pdf/1706.03762.pdf
