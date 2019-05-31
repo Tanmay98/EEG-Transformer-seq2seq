@@ -7,12 +7,12 @@ publication of Google - https://arxiv.org/pdf/1706.03762.pdf
 annotated transformer of Harvard NLP - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
 ## Partner
-Ruyue Hong - co-author
+Ruyue Hong (@redevaaa) - co-author
 
 ## Mentor
-Neo Mohsenvand - idea and guidance
+Neo Mohsenvand (@NeoVand) - idea and guidance
 
-Mehul Smriti Raje - EEG preprocessing
+Mehul Smriti Raje (@mraje16) - EEG preprocessing
 
 ## To know about our project and see the performance
 final_report.pdf - the completed presentation of the project
