@@ -13,15 +13,7 @@ annotated transformer of Harvard NLP - http://nlp.seas.harvard.edu/2018/04/03/at
 - [SciPy](http://www.scipy.org/install.html)
 - [PyLDS](https://github.com/mattjj/pylds)
 
-## Partner
-Ruyue Hong (@redevaaa) - co-author
-
-## Mentor
-Neo Mohsenvand (@NeoVand) - idea and guidance
-
-Mehul Smriti Raje (@mraje16) - EEG preprocessing
-
-## To know about our project and see the performance
+## To know about the project and see the performance
 final_report.pdf - the completed presentation of the project
 
 ## To understand the code
@@ -32,3 +24,10 @@ EEG_train.ipynb - an example for the EEG (Electroencephalogram) dataset
 
 LDS_train.ipynb - an example for the GLDS (gaussian linear dynamical systems) dataset
 
+## Partner
+Ruyue Hong (@redevaaa) - co-author
+
+## Mentor
+Neo Mohsenvand (@NeoVand) - idea and guidance
+
+Mehul Smriti Raje (@mraje16) - EEG preprocessing
