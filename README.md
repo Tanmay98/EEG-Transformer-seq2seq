@@ -1,5 +1,5 @@
 # EEG-Transformer-seq2seq
-Modified transformer network utilizing the attention mechanism for time series or any other numerical data. A collaborative 6.100 Electrical Engineering and Computer Science Project at MIT Media Lab.
+Modified transformer network utilizing the attention mechanism for time series or any other numerical data. 6.100 Electrical Engineering and Computer Science Project at MIT Media Lab.
 
 ## The origianl NLP paper and Transformer model
 publication of Google - https://arxiv.org/pdf/1706.03762.pdf
@@ -24,10 +24,9 @@ EEG_train.ipynb - an example for the EEG (Electroencephalogram) dataset
 
 LDS_train.ipynb - an example for the GLDS (gaussian linear dynamical systems) dataset
 
-## Partner
+## Partner & Mentor
 Ruyue Hong (@redevaaa) - co-author
 
-## Mentor
 Neo Mohsenvand (@NeoVand) - idea and guidance
 
 Mehul Smriti Raje (@mraje16) - EEG preprocessing
