@@ -6,6 +6,13 @@ publication of Google - https://arxiv.org/pdf/1706.03762.pdf
 
 annotated transformer of Harvard NLP - http://nlp.seas.harvard.edu/2018/04/03/attention.html
 
+## Prerequisite
+
+- Python 3.6+
+- [Pytorch Stable(1.1)](https://pytorch.org)
+- [SciPy](http://www.scipy.org/install.html)
+- [PyLDS](https://github.com/mattjj/pylds)
+
 ## Partner
 Ruyue Hong (@redevaaa) - co-author
 
