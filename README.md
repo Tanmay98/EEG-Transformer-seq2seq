@@ -1,7 +1,7 @@
 # EEG-Transformer-seq2seq
 Modified transformer network utilizing the attention mechanism for time series or any other numerical data. 6.100 Electrical Engineering and Computer Science Project at MIT Media Lab.
 
-## The origianl NLP paper and Transformer model
+## The original NLP paper and Transformer model
 publication of Google - https://arxiv.org/pdf/1706.03762.pdf
 
 annotated transformer of Harvard NLP - http://nlp.seas.harvard.edu/2018/04/03/attention.html
