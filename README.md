@@ -24,7 +24,9 @@ EEG_train.ipynb - an example for the EEG (Electroencephalogram) dataset
 
 LDS_train.ipynb - an example for the GLDS (gaussian linear dynamical systems) dataset
 
-## Partner & Mentor
+## Authors & Mentors
+[Yingqi Ding](https://github.com/dyq0811) (@dyq0811) - me
+
 Ruyue Hong (@redevaaa) - co-author
 
 Neo Mohsenvand (@NeoVand) - idea and guidance
